@@ -1,6 +1,4 @@
 Meu segundo sistema no git
 
-alterar o que quiser
-alteração feita no master
-
-Alteri uma nova linha
+Alteração feita no master
+Criando um arquivo index.html
